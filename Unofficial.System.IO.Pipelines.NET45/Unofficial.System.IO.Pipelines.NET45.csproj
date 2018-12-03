@@ -4,11 +4,14 @@
     <TargetFramework>net45</TargetFramework>
     <LangVersion>7.2</LangVersion>
     <Company />
-    <Description>[Unoffical] System.IO.Pipelines for .NET Framework 4.5 ()</Description>
+    <Description>[Unofficial] System.IO.Pipelines for .NET Framework 4.5</Description>
     <PackageLicenseUrl>https://github.com/dotnet/corefx/blob/master/LICENSE.TXT</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/moien007/Pipelines.NET45</PackageProjectUrl>
     <RepositoryUrl>https://github.com/moien007/Pipelines.NET45</RepositoryUrl>
     <PackageReleaseNotes>pipelines;system.io.pipelines</PackageReleaseNotes>
+    <Product>Unofficial.System.IO.Pipelines.NET45</Product>
+    <Authors>https://github.com/moien007</Authors>
+    <PackageId>Unofficial.System.IO.Pipelines.NET45</PackageId>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
